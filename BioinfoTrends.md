@@ -1,4 +1,4 @@
-# The Age of Foundation Models: A Strategic Analysis of AI's Industrial Revolution in the Life Sciences
+# A Strategic Analysis of AI's Industrial Revolution in the Life Sciences
 
 ## Executive Summary
 
