@@ -1,4 +1,4 @@
-# The Dawn of Generative Biology: An Analysis of Deep Learning's Transformative Impact on Life Sciences
+# An Analysis of Deep Learning's Transformative Impact on Life Sciences
 
 ## Executive Summary
 
